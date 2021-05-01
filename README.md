@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Parsa
 
-## I'm Parsa
-
-### 🔵 &nbsp;About Me
+---
+## 🔵 &nbsp;About Me
 
 - 🎓 &nbsp; Computer Engineering @ YTÜ : (BCs 4th semester)
 - 📚 &nbsp; Learning:
@@ -10,7 +9,9 @@
   - Machine Learning
   - Blockchain Technologies
 
-### 🛠 &nbsp;Tech Stack
+---
+
+## 🛠 &nbsp;Tech Stack
 
 - #### Languages: <br>
   
@@ -42,20 +43,22 @@
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+---
+## 📊 Stats
 
-
-## My Stats
-
+<p>
 <a href="https://github.com/parsakzr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parsakzr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180mm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parsakzr&theme=tokyonight&hide_border=true&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parsakzr&theme=tokyonight&hide_border=true&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=parsakzr&theme=tokyonight&hide_border=true" alt="parsakzr" />
 </a>
 </p>
 
+---
 ## 🤙 &nbsp;Connect with Me
 
-![Twitter](https://img.shields.io/badge/@DevParsa-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2FDevParsa)
-![LinkedIn](https://img.shields.io/badge/@Parsakzr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https%3A%2F%2Flinkedin.com%2Fin%2Fparsakzr)
-![Discord](https://img.shields.io/badge/Beeper0%236910-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white&url=https%3A%2F%2Fdiscord.com%2Fusers%2F508980629107376150)
-![Telegram](https://img.shields.io/badge/@AltParsa-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&url=https%3A%2F%2Ft.me%2Faltparsa)
-![Matrix](https://img.shields.io/badge/parsak:matrix.org-2b2b2b?logo=Matrix&style=for-the-badge&url=https%3A%2F%2Fmatrix.to%2F%23%2F%40parsak%3Amatrix.org)
+[![Twitter](https://img.shields.io/badge/@DevParsa-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/DevParsa)
+[![LinkedIn](https://img.shields.io/badge/@Parsakzr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakzr/)
+[![Discord](https://img.shields.io/badge/Beeper0%236910-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/508980629107376150)
+[![Telegram](https://img.shields.io/badge/@AltParsa-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/altparsa)
+[![Matrix](https://img.shields.io/badge/parsak:matrix.org-2b2b2b?logo=Matrix&style=for-the-badge&logoColor=white)](https://matrix.to/#/@parsak:matrix.org)
