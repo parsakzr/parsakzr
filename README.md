@@ -1,6 +1,9 @@
 ### Hi there 👋 I'm Parsa
 
 ---
+
+<a href="https://app.daily.dev/parsakzr"><img src="https://github.com/parsakzr/parsakzr/blob/master/devcard.svg" width="400" align="right" alt="Parsa K.'s Dev Card"/></a>
+
 ## 🔵 &nbsp;About Me
 
 - 🎓 &nbsp; Computer Engineering @ YTÜ : (BCs 4th semester)
@@ -10,8 +13,6 @@
   - Blockchain Technologies
 
 ---
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" align="right" alt="Parsa K.'s Dev Card"/></a>
 
 ## 🛠 &nbsp;Tech Stack
 
