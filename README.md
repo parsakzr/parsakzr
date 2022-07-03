@@ -11,8 +11,7 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/54034132/177052267-0660193c-40ab-4aab-b302-ca6cb676eea1.jpeg)
-
+<a href="https://app.daily.dev/parsakzr"><img src="https://api.daily.dev/devcards/c520f92fad8247e7a1471cb11b321e69.png?r=5h4" width="400" alt="Parsa K.'s Dev Card"/></a>
 
 ## 🛠 &nbsp;Tech Stack
 
