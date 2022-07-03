@@ -11,7 +11,7 @@
 
 ---
 
-<a href="https://app.daily.dev/parsakzr"><img src="https://api.daily.dev/devcards/c520f92fad8247e7a1471cb11b321e69.png?r=5h4" width="400" alt="Parsa K.'s Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" align="right" alt="Parsa K.'s Dev Card"/></a>
 
 ## 🛠 &nbsp;Tech Stack
 
