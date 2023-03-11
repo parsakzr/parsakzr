@@ -2,8 +2,6 @@
 
 ---
 
-<a href="https://app.daily.dev/parsakzr"><img src="https://github.com/parsakzr/parsakzr/blob/master/devcard.svg" width="400" align="right" alt="Parsa K.'s Dev Card"/></a>
-
 ## 🔵 &nbsp;About Me
 
 - 🎓 &nbsp; Computer Engineering @ YTÜ : (BCs 4th semester)
