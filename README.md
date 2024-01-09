@@ -4,11 +4,12 @@
 
 ## 🔵 &nbsp;About Me
 
-- 🎓 &nbsp; Computer Engineering @ YTÜ : (BCs 4th semester)
+- 🎓 &nbsp; BEng. Computer Engineering @ YTÜ
 - 📚 &nbsp; Learning:
   - Quantum Computing
   - Machine Learning
-
+- [My Website](https://parsakzr.github.io/)
+- [My CV](https://raw.githubusercontent.com/parsakzr/parsakzr/master/CV-Parsa-2024.pdf)
 ---
 ## 📊 Stats
 
