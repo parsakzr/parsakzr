@@ -5,9 +5,10 @@
 ## 🔵 &nbsp;About Me
 
 - 🎓 &nbsp; BEng. Computer Engineering @ YTÜ
-- 📚 &nbsp; Learning:
-  - Quantum Computing
-  - Machine Learning
+- 📚 &nbsp; Researching on:
+  - Reinforcement Learning
+  - Reasoning abilities in LLMs
+    
 - [My Website](https://parsakzr.github.io/)
 - [My CV](https://raw.githubusercontent.com/parsakzr/parsakzr/master/CV-Parsa-2024.pdf)
 ---
