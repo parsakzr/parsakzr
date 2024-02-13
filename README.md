@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; BEng. Computer Engineering @ YTÜ
 - 📚 &nbsp; Researching on:
-  - Reinforcement Learning
+  - Reinforcement Learning on Graph Neural Networks
   - Reasoning abilities in LLMs
     
 - [My Website](https://parsakzr.github.io/)
